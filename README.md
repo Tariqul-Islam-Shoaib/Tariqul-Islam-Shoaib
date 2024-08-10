@@ -11,3 +11,6 @@ Welcome to my GitHub profile! I'm a final year Computer Science student with a p
 📫 How to Reach Me: Feel free to reach out to me via LinkedIn or Email. I'm always open to connecting with like-minded individuals.
 
 ⚡ Fun Fact: I am big Real Madrid fan & don't wanna miss the matches! Would love to visit Santiago Bernabue one day!
+
+
+![7069 jpg_wh1200](https://github.com/user-attachments/assets/a4503bd4-044f-41e0-a0eb-90154df5a8dd)
