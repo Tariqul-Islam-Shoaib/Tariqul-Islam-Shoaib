@@ -1,4 +1,5 @@
-[![MasterHead(https://www.gyanvihar.org:3001/uploads/1630053356860mbahead.jpg)](https://tariqul-portfolio.vercel.app/)
+[![MasterHead](https://www.gyanvihar.org:3001/uploads/1630053356860mbahead.jpg)](https://tariqul-portfolio.vercel.app/)
+
 
 <h1 align="center">Hi 👋, I'm Md.Tariqul Islam Shoaib</h1>
 <h3 align="center">A passionate software developer from Bangladesh</h3>
