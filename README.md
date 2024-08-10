@@ -1,4 +1,4 @@
-[![MasterHead](https://st3.depositphotos.com/1802620/34925/v/1600/depositphotos_349257838-stock-illustration-programming-banner-coding-best-programming.jpg)]
+[![MasterHead](https://drive.google.com/drive/u/1/folders/1PbSYfhqT5R_spCGp4MWF_rJS5EhXQPNa)]
 
 
 <h1 align="center">Hi 👋, I'm Md.Tariqul Islam Shoaib</h1>
