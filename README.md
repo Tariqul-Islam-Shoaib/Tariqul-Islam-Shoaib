@@ -1,4 +1,3 @@
-[![MasterHead](https://img.freepik.com/free-vector/programmers-day-banner-design_1308-116415.jpg?t=st=1723306360~exp=1723309960~hmac=1b6a9701d244f6b43978b2b3e25d88b00845e8b143ab7e2669bdb2a8c334a869&w=826)]
 
 
 <h1 align="center">Hi 👋, I'm Md.Tariqul Islam Shoaib</h1>
