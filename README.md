@@ -7,9 +7,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tariqul-islam-shoaib&label=Profile%20views&color=0e75b6&style=flat" alt="tariqul-islam-shoaib" /> </p>
 
-- 🔭 I’m currently working as an **Student Tutor, BRAC University**
+- 🔭 Recently worked as an **Student Tutor, BRAC University**
 
-- 🌱 I’m currently learning **Laravel, React JS**
+- 🌱 I’m currently learning in depth of **Laravel, Mern**
 
 - 👯 I’m looking to enhance my skills by securing an **Internship**
 
